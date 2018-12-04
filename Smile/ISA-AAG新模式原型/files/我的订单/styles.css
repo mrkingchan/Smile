@@ -1,0 +1,151 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(242, 242, 242, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:500px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u719_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:890px;
+}
+#u719 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:500px;
+  height:890px;
+}
+#u720 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:437px;
+  width:496px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u721_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:291px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#1E1E1E;
+  text-align:left;
+}
+#u721 {
+  border-width:0px;
+  position:absolute;
+  left:37px;
+  top:207px;
+  width:291px;
+  height:26px;
+  font-size:16px;
+  color:#1E1E1E;
+  text-align:left;
+}
+#u722 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:287px;
+  word-wrap:break-word;
+}
+#u723_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:291px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#1E1E1E;
+  text-align:left;
+}
+#u723 {
+  border-width:0px;
+  position:absolute;
+  left:37px;
+  top:405px;
+  width:291px;
+  height:26px;
+  font-size:16px;
+  color:#1E1E1E;
+  text-align:left;
+}
+#u724 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:287px;
+  word-wrap:break-word;
+}
+#u725_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:291px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#1E1E1E;
+  text-align:left;
+}
+#u725 {
+  border-width:0px;
+  position:absolute;
+  left:37px;
+  top:607px;
+  width:291px;
+  height:26px;
+  font-size:16px;
+  color:#1E1E1E;
+  text-align:left;
+}
+#u726 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:287px;
+  word-wrap:break-word;
+}
